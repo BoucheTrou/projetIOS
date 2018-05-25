@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  Pictionary
+
+  Created by Benjamin Trotin on 21/02/2017.
+  Copyright © 2017 Benjamin Trotin. All rights reserved.
+*/
+
+//---------------Global---------------//
+"Bretour"="BBack.png";
+//--------------------------------------------//
+
+//---------------ViewController---------------//
+
+"PartieLocale"="       Offline Game";
+"PartieEnLigne"="       Online Game";
+"Options"="       Settings";
+"Score"="       Highscores";
+
+//--------------------------------------------//
+
+//---------------OptionVC---------------//
+
+"TitreLangage"="Language";
+"BFrance"="DFrance.png";
+"BUK"="DUKS.png";
+
+//--------------------------------------------//
+
+
+//---------------ChoixType PartieVC---------------//
+
+"TitreTypePartie"="Game Choice";
+"BPL"="BPLE.png";
+"BPC"="BPCE.png";
+
+//--------------------------------------------//
+
+//---------------PartieLocaleVC---------------//
+
+"TitreReglage"="Game Settings";
+"TextEquipe"="Number of Team :";
+"Equipe1"="Team1";
+"Equipe2"="Team2";
+"Equipe3"="Team3";
+"Equipe4"="Team4";
+"BSuivant"="BNext.png";
+
+//--------------------------------------------//
+
+//---------------JeuPlateauVC---------------//
+
+"VictoireRouge"="VictoireRougeE.jpg";
+"VictoireBleu"="VictoireBleuE.jpg";
+"VictoireJaune"="VictoireJauneE.jpg";
+"VictoireVert"="VictoireVertE.jpg";
+
+"ThemeJaune"="Person - Place - Animal";
+"ThemeBleu"="Object";
+"ThemeOrange"="An Action";
+"ThemeVert"="A Hard Word";
+"ThemeRouge"="Video Game";
+
+//--------------------------------------------//
+
+//---------------JeuDessinVC---------------//
+
+"MotTrouve"="MotTrouveE.jpg";
+"Rate"="Failed.jpg";
+"Theme"="Topic.png";
+
+//--------------------------------------------//
+
+//---------------ScoreVC---------------//
+
+"TitreScore"="Last Score";
+
+//--------------------------------------------//

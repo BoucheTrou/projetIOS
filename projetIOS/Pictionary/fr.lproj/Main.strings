@@ -1,0 +1,78 @@
+
+/* Class = "UILabel"; text = "."; ObjectID = "6mx-g7-ncf"; */
+"6mx-g7-ncf.text" = ".";
+
+/* Class = "UITextField"; text = "Equipe 1"; ObjectID = "9mA-kl-YUN"; */
+"9mA-kl-YUN.text" = "Equipe 1";
+
+/* Class = "UILabel"; text = "Réglages de la Partie"; ObjectID = "9xz-HJ-m4j"; */
+"9xz-HJ-m4j.text" = "Réglages de la Partie";
+
+/* Class = "UIButton"; normalTitle = "       Partie Locale"; ObjectID = "BDE-G0-Fgh"; */
+"BDE-G0-Fgh.normalTitle" = "       Partie Locale";
+
+/* Class = "UILabel"; text = "."; ObjectID = "Bbj-kQ-hH0"; */
+"Bbj-kQ-hH0.text" = ".";
+
+/* Class = "UITextField"; text = "Equipe 3"; ObjectID = "EAS-Ap-Ppp"; */
+"EAS-Ap-Ppp.text" = "Equipe 3";
+
+/* Class = "UILabel"; text = "."; ObjectID = "FaG-fD-Fu8"; */
+"FaG-fD-Fu8.text" = ".";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "H2T-WM-YLW"; */
+"H2T-WM-YLW.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "       Options"; ObjectID = "KXR-29-qiX"; */
+"KXR-29-qiX.normalTitle" = "       Options";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Kol-sz-Jfg"; */
+"Kol-sz-Jfg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "."; ObjectID = "Mja-kn-AXZ"; */
+"Mja-kn-AXZ.text" = ".";
+
+/* Class = "UILabel"; text = "Nombre d'équipe :"; ObjectID = "Py9-Rg-tiN"; */
+"Py9-Rg-tiN.text" = "Nombre d'équipe :";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "U50-vn-WNI"; */
+"U50-vn-WNI.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZhJ-Lf-sqo"; */
+"ZhJ-Lf-sqo.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "       Scores"; ObjectID = "cCf-fV-foJ"; */
+"cCf-fV-foJ.normalTitle" = "       Scores";
+
+/* Class = "UILabel"; text = "Langage"; ObjectID = "ct8-z1-3rZ"; */
+"ct8-z1-3rZ.text" = "Langage";
+
+/* Class = "UITextField"; text = "Equipe 4"; ObjectID = "dWP-HF-3SE"; */
+"dWP-HF-3SE.text" = "Equipe 4";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "iLj-c7-dYh"; */
+"iLj-c7-dYh.text" = "2";
+
+/* Class = "UITextField"; text = "Equipe 2"; ObjectID = "nP2-5K-1kc"; */
+"nP2-5K-1kc.text" = "Equipe 2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "s4j-XG-L3L"; */
+"s4j-XG-L3L.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Choix type Partie"; ObjectID = "sY0-Hs-ZbP"; */
+"sY0-Hs-ZbP.text" = "Choix type Partie";
+
+/* Class = "UILabel"; text = "En Construction"; ObjectID = "u6b-Sk-qcs"; */
+"u6b-Sk-qcs.text" = "En Construction";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uk9-Q0-9gf"; */
+"uk9-Q0-9gf.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "En Construction"; ObjectID = "vqy-bu-0RJ"; */
+"vqy-bu-0RJ.text" = "En Construction";
+
+/* Class = "UIButton"; normalTitle = "       Partie en Ligne"; ObjectID = "xDE-Ji-enL"; */
+"xDE-Ji-enL.normalTitle" = "       Partie en Ligne";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zIb-mI-aUp"; */
+"zIb-mI-aUp.normalTitle" = "Button";

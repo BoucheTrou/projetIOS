@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  Pictionary
+
+  Created by Benjamin Trotin on 21/02/2017.
+  Copyright © 2017 Benjamin Trotin. All rights reserved.
+*/
+
+//---------------Global---------------//
+"Bretour"="BRetour.png";
+//--------------------------------------------//
+
+
+//---------------ViewController---------------//
+
+"PartieLocale"="       Partie Locale";
+"PartieEnLigne"="       Partie En Ligne";
+"Options"="       Options";
+"Score"="       Scores";
+
+//--------------------------------------------//
+
+//---------------OptionVC---------------//
+
+"TitreLangage"="Langage";
+"BFrance"="DFranceS.png";
+"BUK"="DUK.png";
+
+//--------------------------------------------//
+
+//---------------ChoixType PartieVC---------------//
+
+"TitreTypePartie"="Choix de la Partie";
+"BPL"="BPL.png";
+"BPC"="BPC.png";
+
+//--------------------------------------------//
+
+//---------------PartieLocaleVC---------------//
+
+"TitreReglage"="Réglages de la Partie";
+"TextEquipe"="Nombre d'équipe :";
+"Equipe1"="Equipe1";
+"Equipe2"="Equipe2";
+"Equipe3"="Equipe3";
+"Equipe4"="Equipe4";
+"BSuivant"="BSuivant.png";
+
+//--------------------------------------------//
+
+//---------------JeuPlateauVC---------------//
+
+"VictoireRouge"="VictoireRouge.jpg";
+"VictoireBleu"="VictoireBleu.jpg";
+"VictoireJaune"="VictoireJaune.jpg";
+"VictoireVert"="VictoireVert.jpg";
+
+"ThemeJaune"="Personne - Lieu - Animal";
+"ThemeBleu"="Objet";
+"ThemeOrange"="Une Action";
+"ThemeVert"="Un Mot Difficile";
+"ThemeRouge"="Jeu Vidéo";
+
+//--------------------------------------------//
+
+//---------------JeuDessinVC---------------//
+
+"MotTrouve"="MotTrouve.jpg";
+"Rate"="Rate.jpg";
+"Theme"="Theme.png";
+
+//--------------------------------------------//
+
+//---------------ScoreVC---------------//
+
+"TitreScore"="Score de la dernière Partie";
+
+//--------------------------------------------//
